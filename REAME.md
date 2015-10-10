@@ -1,7 +1,7 @@
 README
 
 purpose of this program:
-Figuring how to take train from one city to another in Europe is just a headache. My program computes the shortest path for your travel.
+Figuring how to take train from one city to another in Europe is just a headache (because sometimes one city doesn't necessarily go to another city. Therefore, you might have to change your train somewhere). My program computes the shortest path for your travel.
 
 Input:
 user input of destination and origin (city name has to be the same as the one in eurail.txt in my folder)
